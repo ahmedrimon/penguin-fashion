@@ -1,24 +1,10 @@
-/* *{
-    margin: 0;
-    padding: 0;
+.image {
+    height: 400px;
+    width: 400px
 }
-
-.logo {
-    height: 48px;
-    padding: 2px 10px;
-    
+.image-one {
+    height:1150px;
+    width: 1500px;
+    display: inline-block;
+    margin-right: 50px;
 }
-.heading-color {
-    color: orange;
-}
-
-.half-width {
-    width: 50%;
-    margin-left: 5%;
-    float: left;
-}
-
-
-.half-width img {
-    width: 50%;
-} */
